@@ -1,0 +1,14 @@
+pattern_bits,pattern_label,count
+0001,"GNN (missing: CNN, GAT, GCN)",266
+0101,"GAT & GNN (missing: CNN, GCN)",77
+0111,GAT & GCN & GNN (missing: CNN),36
+0100,"GAT (missing: CNN, GCN, GNN)",29
+0011,"GCN & GNN (missing: CNN, GAT)",16
+1111,CNN & GAT & GCN & GNN,13
+1101,CNN & GAT & GNN (missing: GCN),10
+1001,"CNN & GNN (missing: GAT, GCN)",9
+0010,"GCN (missing: CNN, GAT, GNN)",7
+0110,"GAT & GCN (missing: CNN, GNN)",5
+1000,"CNN (missing: GAT, GCN, GNN)",3
+1011,CNN & GCN & GNN (missing: GAT),2
+1100,"CNN & GAT (missing: GCN, GNN)",1

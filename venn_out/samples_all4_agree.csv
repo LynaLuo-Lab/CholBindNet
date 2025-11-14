@@ -1,0 +1,14 @@
+canonical_id,CNN,GAT,GCN,GNN,pattern_label
+box1416,True,True,True,True,CNN & GAT & GCN & GNN
+box1716,True,True,True,True,CNN & GAT & GCN & GNN
+box2061,True,True,True,True,CNN & GAT & GCN & GNN
+box2376,True,True,True,True,CNN & GAT & GCN & GNN
+box2707,True,True,True,True,CNN & GAT & GCN & GNN
+box4530,True,True,True,True,CNN & GAT & GCN & GNN
+box5241,True,True,True,True,CNN & GAT & GCN & GNN
+box5318,True,True,True,True,CNN & GAT & GCN & GNN
+box5883,True,True,True,True,CNN & GAT & GCN & GNN
+box6294,True,True,True,True,CNN & GAT & GCN & GNN
+box7835,True,True,True,True,CNN & GAT & GCN & GNN
+box8932,True,True,True,True,CNN & GAT & GCN & GNN
+box8933,True,True,True,True,CNN & GAT & GCN & GNN

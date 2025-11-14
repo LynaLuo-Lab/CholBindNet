@@ -1,0 +1,462 @@
+canonical_id,CNN,GAT,GCN,GNN,pattern_label,pattern_bits
+box1023,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1028,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1038,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box1039,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1040,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box1307,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box1308,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1314,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1337,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box1352,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1359,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box1372,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1373,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1374,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box1388,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1399,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1400,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box1401,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box1402,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box1653,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1668,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1674,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box1682,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1701,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box1703,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1714,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box1728,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1729,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1730,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box1731,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box1761,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box1762,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2004,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2013,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2014,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2016,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2033,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box2042,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2057,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2062,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box2090,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2105,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box2119,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2120,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2330,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2346,False,True,True,False,"GAT & GCN (missing: CNN, GNN)",0110
+box2349,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2358,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2361,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box2372,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2405,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2417,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2419,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box2464,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box262,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box2689,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2690,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2703,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2704,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2708,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2720,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2721,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2724,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2742,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box2749,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box2756,True,True,False,False,"CNN & GAT (missing: GCN, GNN)",1100
+box2762,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2777,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2778,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2779,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box2780,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box279,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box2838,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3062,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3063,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3066,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3067,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3070,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3071,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3077,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3083,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3084,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3086,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3087,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3098,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3099,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3107,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3110,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3112,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3116,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box3117,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3122,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3123,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3125,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3133,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box3138,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3279,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box3280,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box3294,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box3308,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3309,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3335,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3407,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3408,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3409,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box3418,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3422,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3424,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3431,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3433,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3434,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3444,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3445,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3446,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box3448,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3449,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3462,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3467,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3469,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box3473,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3475,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3482,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3487,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3493,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3499,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3625,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3636,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box3637,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box3640,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3651,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box3652,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3655,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3680,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3681,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3738,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3740,True,False,False,False,"CNN (missing: GAT, GCN, GNN)",1000
+box3772,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box3777,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3787,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box3793,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3794,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3807,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3808,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box3824,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3830,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3832,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box3834,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3845,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3847,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box3848,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box3851,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3852,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box3853,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3858,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3859,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3866,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box3867,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box3999,False,True,True,False,"GAT & GCN (missing: CNN, GNN)",0110
+box4015,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4026,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4027,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4028,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box4029,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4041,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4054,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4069,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4070,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4084,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4098,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4099,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4100,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4112,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4127,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4131,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4132,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box4136,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4142,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4145,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4162,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4182,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box4185,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4189,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4192,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4207,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box4208,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4211,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4219,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4226,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4227,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4228,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4345,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4360,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4369,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4370,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4375,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4387,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box4388,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4398,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box4399,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box4400,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4401,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4413,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4442,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4458,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4474,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4475,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4476,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4483,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4487,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4491,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4497,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4498,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4505,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4514,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4517,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4522,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4529,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4545,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4550,False,True,True,False,"GAT & GCN (missing: CNN, GNN)",0110
+box4551,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4552,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4560,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4563,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4565,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4566,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4567,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4571,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4573,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4581,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4584,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4587,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4715,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4746,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box4758,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4762,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4763,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box4775,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4776,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4777,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4787,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4802,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4806,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box4807,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4820,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4821,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4823,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4832,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4833,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box4835,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4836,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4853,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box4856,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4866,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4881,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4895,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4899,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4919,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4921,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4922,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4926,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box4927,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4942,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box4947,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5075,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5090,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5110,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5132,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5162,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5163,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5184,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5201,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5207,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5217,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5222,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5233,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5246,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5253,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5255,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box5258,True,False,True,True,CNN & GCN & GNN (missing: GAT),1011
+box5259,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5266,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box5268,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5279,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5291,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5292,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5302,False,True,True,False,"GAT & GCN (missing: CNN, GNN)",0110
+box5303,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5305,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5307,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box5313,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5315,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5316,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5317,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5345,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box5440,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5450,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5465,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box5478,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5483,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5493,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5495,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5507,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5514,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box5522,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box5538,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5559,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5567,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box5603,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box5604,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5611,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box5612,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5626,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box5627,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box5633,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5634,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5645,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5648,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5649,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5651,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5657,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5674,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5677,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box5704,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5709,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5723,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5812,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box5840,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5842,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box5843,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5853,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5887,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5927,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5928,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5943,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5960,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5963,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box5964,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box5987,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5988,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box5990,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6002,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6007,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6008,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6016,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6017,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6022,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6048,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6054,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box606,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6065,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box607,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box6173,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6188,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box619,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6235,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6244,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6245,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6260,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6275,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box6302,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6303,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6331,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6335,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6346,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6347,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box6350,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box6361,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6364,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6376,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6377,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6396,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6408,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6414,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6423,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6593,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box6594,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6604,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box6605,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box6619,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box6620,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box663,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6677,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6692,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6693,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6707,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6722,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6724,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6725,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6739,False,True,True,False,"GAT & GCN (missing: CNN, GNN)",0110
+box6752,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6753,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box6767,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box6782,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6784,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6787,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box6799,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6802,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box681,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box682,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box684,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6939,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6940,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6954,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box6955,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box697,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7055,True,False,False,False,"CNN (missing: GAT, GCN, GNN)",1000
+box7084,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7117,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box7127,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box7142,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box7148,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box7159,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box7162,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box7414,True,False,False,False,"CNN (missing: GAT, GCN, GNN)",1000
+box7460,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7492,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7538,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box7820,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box7821,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box7822,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7848,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7851,False,False,True,False,"GCN (missing: CNN, GAT, GNN)",0010
+box7855,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7870,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7879,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7883,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7884,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box7898,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8149,True,False,True,True,CNN & GCN & GNN (missing: GAT),1011
+box8164,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8165,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8167,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8179,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8180,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8183,True,False,False,True,"CNN & GNN (missing: GAT, GCN)",1001
+box8199,True,True,False,True,CNN & GAT & GNN (missing: GCN),1101
+box8241,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box8539,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box8542,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8543,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box8553,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box8555,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8559,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8570,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8574,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8589,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8918,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8919,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box8931,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box8948,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box950,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box952,False,True,True,True,GAT & GCN & GNN (missing: CNN),0111
+box953,False,False,True,True,"GCN & GNN (missing: CNN, GAT)",0011
+box962,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box964,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box967,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box977,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box978,False,True,False,True,"GAT & GNN (missing: CNN, GCN)",0101
+box982,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001
+box992,False,True,False,False,"GAT (missing: CNN, GCN, GNN)",0100
+box993,False,False,False,True,"GNN (missing: CNN, GAT, GCN)",0001

@@ -1,0 +1,224 @@
+test output works
+1925 is length of positive
+In validation directory there are 385 positives and 1385 fragments
+1770 is length of validation grids
+1925 is length of subset grid
+Training on bin 1
+Bin 1, Epoch 1/150, Train Loss: 0.6930, Validation Loss: 0.6884, Validation Accuracy: 0.7825, Grad Norm: 0.0181, LR: 0.000050
+Bin 1, Epoch 11/150, Train Loss: 0.6114, Validation Loss: 0.5555, Validation Accuracy: 0.8429, Grad Norm: 1.9473, LR: 0.000050
+Bin 1, Epoch 21/150, Train Loss: 0.4872, Validation Loss: 0.4796, Validation Accuracy: 0.8333, Grad Norm: 4.4194, LR: 0.000050
+Bin 1, Epoch 31/150, Train Loss: 0.4726, Validation Loss: 0.4529, Validation Accuracy: 0.8593, Grad Norm: 4.3429, LR: 0.000050
+Bin 1, Epoch 41/150, Train Loss: 0.4644, Validation Loss: 0.4271, Validation Accuracy: 0.8859, Grad Norm: 5.2881, LR: 0.000050
+Bin 1, Epoch 51/150, Train Loss: 0.4571, Validation Loss: 0.4381, Validation Accuracy: 0.8729, Grad Norm: 4.4636, LR: 0.000050
+Bin 1, Epoch 61/150, Train Loss: 0.4519, Validation Loss: 0.4209, Validation Accuracy: 0.8932, Grad Norm: 4.6393, LR: 0.000050
+Bin 1, Epoch 71/150, Train Loss: 0.4435, Validation Loss: 0.4171, Validation Accuracy: 0.8966, Grad Norm: 0.6634, LR: 0.000050
+Bin 1, Epoch 81/150, Train Loss: 0.4423, Validation Loss: 0.4142, Validation Accuracy: 0.8977, Grad Norm: 1.4314, LR: 0.000050
+Bin 1, Epoch 91/150, Train Loss: 0.4372, Validation Loss: 0.4164, Validation Accuracy: 0.8921, Grad Norm: 5.5399, LR: 0.000025
+Bin 1, Epoch 101/150, Train Loss: 0.4334, Validation Loss: 0.4080, Validation Accuracy: 0.9051, Grad Norm: 3.0717, LR: 0.000025
+Bin 1, Epoch 111/150, Train Loss: 0.4313, Validation Loss: 0.4087, Validation Accuracy: 0.9023, Grad Norm: 3.1363, LR: 0.000013
+Bin 1, Epoch 121/150, Train Loss: 0.4327, Validation Loss: 0.4103, Validation Accuracy: 0.9023, Grad Norm: 3.3254, LR: 0.000006
+Bin 1, Epoch 131/150, Train Loss: 0.4339, Validation Loss: 0.4095, Validation Accuracy: 0.9023, Grad Norm: 0.8920, LR: 0.000003
+Bin 1, Epoch 141/150, Train Loss: 0.4303, Validation Loss: 0.4094, Validation Accuracy: 0.9028, Grad Norm: 2.3433, LR: 0.000002
+Model for bin 1 saved to 3DCholesterolModels-st_exp4/model_bin_1.pth
+1925 is length of subset grid
+Training on bin 2
+Bin 2, Epoch 1/150, Train Loss: 0.6934, Validation Loss: 0.6806, Validation Accuracy: 0.7825, Grad Norm: 0.1079, LR: 0.000050
+Bin 2, Epoch 11/150, Train Loss: 0.6199, Validation Loss: 0.5642, Validation Accuracy: 0.8486, Grad Norm: 4.7255, LR: 0.000050
+Bin 2, Epoch 21/150, Train Loss: 0.4814, Validation Loss: 0.4441, Validation Accuracy: 0.8763, Grad Norm: 3.2195, LR: 0.000050
+Bin 2, Epoch 31/150, Train Loss: 0.4584, Validation Loss: 0.4312, Validation Accuracy: 0.8814, Grad Norm: 0.3234, LR: 0.000050
+Bin 2, Epoch 41/150, Train Loss: 0.4518, Validation Loss: 0.4218, Validation Accuracy: 0.8915, Grad Norm: 2.9621, LR: 0.000050
+Bin 2, Epoch 51/150, Train Loss: 0.4456, Validation Loss: 0.4175, Validation Accuracy: 0.8972, Grad Norm: 3.4789, LR: 0.000050
+Bin 2, Epoch 61/150, Train Loss: 0.4386, Validation Loss: 0.4145, Validation Accuracy: 0.8966, Grad Norm: 1.1998, LR: 0.000050
+Bin 2, Epoch 71/150, Train Loss: 0.4358, Validation Loss: 0.4142, Validation Accuracy: 0.8972, Grad Norm: 6.2249, LR: 0.000050
+Bin 2, Epoch 81/150, Train Loss: 0.4278, Validation Loss: 0.4088, Validation Accuracy: 0.9040, Grad Norm: 1.4380, LR: 0.000050
+Bin 2, Epoch 91/150, Train Loss: 0.4325, Validation Loss: 0.4101, Validation Accuracy: 0.8989, Grad Norm: 6.3788, LR: 0.000050
+Bin 2, Epoch 101/150, Train Loss: 0.4268, Validation Loss: 0.4130, Validation Accuracy: 0.8955, Grad Norm: 3.0438, LR: 0.000050
+Bin 2, Epoch 111/150, Train Loss: 0.4215, Validation Loss: 0.4090, Validation Accuracy: 0.9000, Grad Norm: 6.3540, LR: 0.000050
+Bin 2, Epoch 121/150, Train Loss: 0.4206, Validation Loss: 0.4038, Validation Accuracy: 0.9028, Grad Norm: 4.6035, LR: 0.000025
+Bin 2, Epoch 131/150, Train Loss: 0.4215, Validation Loss: 0.4074, Validation Accuracy: 0.8994, Grad Norm: 6.4550, LR: 0.000025
+Bin 2, Epoch 141/150, Train Loss: 0.4191, Validation Loss: 0.4103, Validation Accuracy: 0.8972, Grad Norm: 6.3144, LR: 0.000025
+Model for bin 2 saved to 3DCholesterolModels-st_exp4/model_bin_2.pth
+1925 is length of subset grid
+Training on bin 3
+Bin 3, Epoch 1/150, Train Loss: 0.6930, Validation Loss: 0.6937, Validation Accuracy: 0.2175, Grad Norm: 0.0201, LR: 0.000050
+Bin 3, Epoch 11/150, Train Loss: 0.6346, Validation Loss: 0.5787, Validation Accuracy: 0.8475, Grad Norm: 6.1235, LR: 0.000050
+Bin 3, Epoch 21/150, Train Loss: 0.4848, Validation Loss: 0.4476, Validation Accuracy: 0.8706, Grad Norm: 1.6851, LR: 0.000050
+Bin 3, Epoch 31/150, Train Loss: 0.4635, Validation Loss: 0.4392, Validation Accuracy: 0.8718, Grad Norm: 1.8942, LR: 0.000050
+Bin 3, Epoch 41/150, Train Loss: 0.4624, Validation Loss: 0.4229, Validation Accuracy: 0.8887, Grad Norm: 6.2700, LR: 0.000050
+Bin 3, Epoch 51/150, Train Loss: 0.4490, Validation Loss: 0.4355, Validation Accuracy: 0.8712, Grad Norm: 1.8732, LR: 0.000050
+Bin 3, Epoch 61/150, Train Loss: 0.4458, Validation Loss: 0.4275, Validation Accuracy: 0.8785, Grad Norm: 4.1597, LR: 0.000050
+Bin 3, Epoch 71/150, Train Loss: 0.4412, Validation Loss: 0.4137, Validation Accuracy: 0.8949, Grad Norm: 4.5725, LR: 0.000050
+Bin 3, Epoch 81/150, Train Loss: 0.4411, Validation Loss: 0.4112, Validation Accuracy: 0.8960, Grad Norm: 4.7484, LR: 0.000025
+Bin 3, Epoch 91/150, Train Loss: 0.4362, Validation Loss: 0.4185, Validation Accuracy: 0.8927, Grad Norm: 1.4743, LR: 0.000025
+Bin 3, Epoch 101/150, Train Loss: 0.4367, Validation Loss: 0.4139, Validation Accuracy: 0.8994, Grad Norm: 5.5468, LR: 0.000013
+Bin 3, Epoch 111/150, Train Loss: 0.4338, Validation Loss: 0.4081, Validation Accuracy: 0.9023, Grad Norm: 2.1060, LR: 0.000013
+Bin 3, Epoch 121/150, Train Loss: 0.4350, Validation Loss: 0.4097, Validation Accuracy: 0.9011, Grad Norm: 1.8538, LR: 0.000006
+Bin 3, Epoch 131/150, Train Loss: 0.4331, Validation Loss: 0.4107, Validation Accuracy: 0.9000, Grad Norm: 0.7307, LR: 0.000003
+Bin 3, Epoch 141/150, Train Loss: 0.4348, Validation Loss: 0.4097, Validation Accuracy: 0.9017, Grad Norm: 1.3040, LR: 0.000003
+Model for bin 3 saved to 3DCholesterolModels-st_exp4/model_bin_3.pth
+1925 is length of subset grid
+Training on bin 4
+Bin 4, Epoch 1/150, Train Loss: 0.6934, Validation Loss: 0.6782, Validation Accuracy: 0.7825, Grad Norm: 0.0337, LR: 0.000050
+Bin 4, Epoch 11/150, Train Loss: 0.6416, Validation Loss: 0.6021, Validation Accuracy: 0.8379, Grad Norm: 4.2304, LR: 0.000050
+Bin 4, Epoch 21/150, Train Loss: 0.5008, Validation Loss: 0.4584, Validation Accuracy: 0.8644, Grad Norm: 0.7655, LR: 0.000050
+Bin 4, Epoch 31/150, Train Loss: 0.4738, Validation Loss: 0.4451, Validation Accuracy: 0.8667, Grad Norm: 2.8387, LR: 0.000050
+Bin 4, Epoch 41/150, Train Loss: 0.4634, Validation Loss: 0.4660, Validation Accuracy: 0.8407, Grad Norm: 6.2061, LR: 0.000050
+Bin 4, Epoch 51/150, Train Loss: 0.4554, Validation Loss: 0.4211, Validation Accuracy: 0.8915, Grad Norm: 0.8725, LR: 0.000050
+Bin 4, Epoch 61/150, Train Loss: 0.4529, Validation Loss: 0.4431, Validation Accuracy: 0.8582, Grad Norm: 0.8184, LR: 0.000050
+Bin 4, Epoch 71/150, Train Loss: 0.4460, Validation Loss: 0.4274, Validation Accuracy: 0.8825, Grad Norm: 0.8371, LR: 0.000025
+Bin 4, Epoch 81/150, Train Loss: 0.4423, Validation Loss: 0.4151, Validation Accuracy: 0.8949, Grad Norm: 1.8552, LR: 0.000013
+Bin 4, Epoch 91/150, Train Loss: 0.4406, Validation Loss: 0.4170, Validation Accuracy: 0.8927, Grad Norm: 0.7584, LR: 0.000013
+Bin 4, Epoch 101/150, Train Loss: 0.4413, Validation Loss: 0.4169, Validation Accuracy: 0.8921, Grad Norm: 0.3753, LR: 0.000006
+Bin 4, Epoch 111/150, Train Loss: 0.4412, Validation Loss: 0.4135, Validation Accuracy: 0.8955, Grad Norm: 0.5074, LR: 0.000006
+Bin 4, Epoch 121/150, Train Loss: 0.4423, Validation Loss: 0.4127, Validation Accuracy: 0.8955, Grad Norm: 1.5883, LR: 0.000006
+Bin 4, Epoch 131/150, Train Loss: 0.4386, Validation Loss: 0.4139, Validation Accuracy: 0.8949, Grad Norm: 2.2627, LR: 0.000003
+Bin 4, Epoch 141/150, Train Loss: 0.4402, Validation Loss: 0.4135, Validation Accuracy: 0.8955, Grad Norm: 6.2196, LR: 0.000002
+Model for bin 4 saved to 3DCholesterolModels-st_exp4/model_bin_4.pth
+1925 is length of subset grid
+Training on bin 5
+Bin 5, Epoch 1/150, Train Loss: 0.6931, Validation Loss: 0.6882, Validation Accuracy: 0.7825, Grad Norm: 0.0878, LR: 0.000050
+Bin 5, Epoch 11/150, Train Loss: 0.6038, Validation Loss: 0.5153, Validation Accuracy: 0.8559, Grad Norm: 3.1264, LR: 0.000050
+Bin 5, Epoch 21/150, Train Loss: 0.4753, Validation Loss: 0.4639, Validation Accuracy: 0.8480, Grad Norm: 6.2942, LR: 0.000050
+Bin 5, Epoch 31/150, Train Loss: 0.4606, Validation Loss: 0.4562, Validation Accuracy: 0.8475, Grad Norm: 1.7922, LR: 0.000050
+Bin 5, Epoch 41/150, Train Loss: 0.4566, Validation Loss: 0.4385, Validation Accuracy: 0.8661, Grad Norm: 2.5470, LR: 0.000050
+Bin 5, Epoch 51/150, Train Loss: 0.4467, Validation Loss: 0.4383, Validation Accuracy: 0.8661, Grad Norm: 3.0644, LR: 0.000050
+Bin 5, Epoch 61/150, Train Loss: 0.4410, Validation Loss: 0.4318, Validation Accuracy: 0.8718, Grad Norm: 2.9838, LR: 0.000050
+Bin 5, Epoch 71/150, Train Loss: 0.4375, Validation Loss: 0.4273, Validation Accuracy: 0.8757, Grad Norm: 6.1504, LR: 0.000050
+Bin 5, Epoch 81/150, Train Loss: 0.4345, Validation Loss: 0.4174, Validation Accuracy: 0.8870, Grad Norm: 6.2692, LR: 0.000050
+Bin 5, Epoch 91/150, Train Loss: 0.4278, Validation Loss: 0.4198, Validation Accuracy: 0.8881, Grad Norm: 0.9089, LR: 0.000025
+Bin 5, Epoch 101/150, Train Loss: 0.4311, Validation Loss: 0.4237, Validation Accuracy: 0.8853, Grad Norm: 6.1422, LR: 0.000025
+Bin 5, Epoch 111/150, Train Loss: 0.4319, Validation Loss: 0.4086, Validation Accuracy: 0.9006, Grad Norm: 6.1396, LR: 0.000025
+Bin 5, Epoch 121/150, Train Loss: 0.4253, Validation Loss: 0.4128, Validation Accuracy: 0.8938, Grad Norm: 1.6709, LR: 0.000025
+Bin 5, Epoch 131/150, Train Loss: 0.4254, Validation Loss: 0.4130, Validation Accuracy: 0.8938, Grad Norm: 4.9093, LR: 0.000025
+Bin 5, Epoch 141/150, Train Loss: 0.4242, Validation Loss: 0.4260, Validation Accuracy: 0.8802, Grad Norm: 6.1258, LR: 0.000025
+Model for bin 5 saved to 3DCholesterolModels-st_exp4/model_bin_5.pth
+1925 is length of subset grid
+Training on bin 6
+Bin 6, Epoch 1/150, Train Loss: 0.6930, Validation Loss: 0.6907, Validation Accuracy: 0.7825, Grad Norm: 0.0376, LR: 0.000050
+Bin 6, Epoch 11/150, Train Loss: 0.6161, Validation Loss: 0.5453, Validation Accuracy: 0.8531, Grad Norm: 5.9795, LR: 0.000050
+Bin 6, Epoch 21/150, Train Loss: 0.4897, Validation Loss: 0.4591, Validation Accuracy: 0.8627, Grad Norm: 3.8837, LR: 0.000050
+Bin 6, Epoch 31/150, Train Loss: 0.4674, Validation Loss: 0.4582, Validation Accuracy: 0.8508, Grad Norm: 3.6403, LR: 0.000050
+Bin 6, Epoch 41/150, Train Loss: 0.4658, Validation Loss: 0.4529, Validation Accuracy: 0.8503, Grad Norm: 2.2279, LR: 0.000050
+Bin 6, Epoch 51/150, Train Loss: 0.4546, Validation Loss: 0.4389, Validation Accuracy: 0.8695, Grad Norm: 4.6780, LR: 0.000050
+Bin 6, Epoch 61/150, Train Loss: 0.4482, Validation Loss: 0.4322, Validation Accuracy: 0.8763, Grad Norm: 3.6441, LR: 0.000025
+Bin 6, Epoch 71/150, Train Loss: 0.4490, Validation Loss: 0.4325, Validation Accuracy: 0.8740, Grad Norm: 6.3724, LR: 0.000025
+Bin 6, Epoch 81/150, Train Loss: 0.4438, Validation Loss: 0.4276, Validation Accuracy: 0.8785, Grad Norm: 1.0454, LR: 0.000013
+Bin 6, Epoch 91/150, Train Loss: 0.4435, Validation Loss: 0.4299, Validation Accuracy: 0.8751, Grad Norm: 0.5910, LR: 0.000006
+Bin 6, Epoch 101/150, Train Loss: 0.4442, Validation Loss: 0.4315, Validation Accuracy: 0.8734, Grad Norm: 0.6456, LR: 0.000003
+Bin 6, Epoch 111/150, Train Loss: 0.4416, Validation Loss: 0.4278, Validation Accuracy: 0.8768, Grad Norm: 3.6843, LR: 0.000003
+Bin 6, Epoch 121/150, Train Loss: 0.4409, Validation Loss: 0.4287, Validation Accuracy: 0.8763, Grad Norm: 0.3756, LR: 0.000002
+Bin 6, Epoch 131/150, Train Loss: 0.4422, Validation Loss: 0.4288, Validation Accuracy: 0.8763, Grad Norm: 4.4983, LR: 0.000001
+Bin 6, Epoch 141/150, Train Loss: 0.4428, Validation Loss: 0.4287, Validation Accuracy: 0.8763, Grad Norm: 3.9740, LR: 0.000000
+Model for bin 6 saved to 3DCholesterolModels-st_exp4/model_bin_6.pth
+1925 is length of subset grid
+Training on bin 7
+Bin 7, Epoch 1/150, Train Loss: 0.6931, Validation Loss: 0.6830, Validation Accuracy: 0.7825, Grad Norm: 0.0389, LR: 0.000050
+Bin 7, Epoch 11/150, Train Loss: 0.6337, Validation Loss: 0.5732, Validation Accuracy: 0.8503, Grad Norm: 3.1062, LR: 0.000050
+Bin 7, Epoch 21/150, Train Loss: 0.4955, Validation Loss: 0.4697, Validation Accuracy: 0.8565, Grad Norm: 4.3147, LR: 0.000050
+Bin 7, Epoch 31/150, Train Loss: 0.4637, Validation Loss: 0.4379, Validation Accuracy: 0.8763, Grad Norm: 0.8551, LR: 0.000050
+Bin 7, Epoch 41/150, Train Loss: 0.4566, Validation Loss: 0.4427, Validation Accuracy: 0.8661, Grad Norm: 1.7232, LR: 0.000050
+Bin 7, Epoch 51/150, Train Loss: 0.4465, Validation Loss: 0.4204, Validation Accuracy: 0.8870, Grad Norm: 5.7170, LR: 0.000050
+Bin 7, Epoch 61/150, Train Loss: 0.4448, Validation Loss: 0.4205, Validation Accuracy: 0.8881, Grad Norm: 4.8137, LR: 0.000050
+Bin 7, Epoch 71/150, Train Loss: 0.4384, Validation Loss: 0.4186, Validation Accuracy: 0.8904, Grad Norm: 1.6266, LR: 0.000050
+Bin 7, Epoch 81/150, Train Loss: 0.4332, Validation Loss: 0.4096, Validation Accuracy: 0.8972, Grad Norm: 3.0820, LR: 0.000050
+Bin 7, Epoch 91/150, Train Loss: 0.4319, Validation Loss: 0.4100, Validation Accuracy: 0.9006, Grad Norm: 3.7016, LR: 0.000050
+Bin 7, Epoch 101/150, Train Loss: 0.4293, Validation Loss: 0.4121, Validation Accuracy: 0.8960, Grad Norm: 4.9163, LR: 0.000025
+Bin 7, Epoch 111/150, Train Loss: 0.4250, Validation Loss: 0.4078, Validation Accuracy: 0.8994, Grad Norm: 2.8948, LR: 0.000013
+Bin 7, Epoch 121/150, Train Loss: 0.4253, Validation Loss: 0.4072, Validation Accuracy: 0.9000, Grad Norm: 3.0076, LR: 0.000006
+Bin 7, Epoch 131/150, Train Loss: 0.4240, Validation Loss: 0.4080, Validation Accuracy: 0.8994, Grad Norm: 3.5431, LR: 0.000003
+Bin 7, Epoch 141/150, Train Loss: 0.4240, Validation Loss: 0.4074, Validation Accuracy: 0.9000, Grad Norm: 2.8752, LR: 0.000003
+Model for bin 7 saved to 3DCholesterolModels-st_exp4/model_bin_7.pth
+1925 is length of subset grid
+Training on bin 8
+Bin 8, Epoch 1/150, Train Loss: 0.6930, Validation Loss: 0.6943, Validation Accuracy: 0.2175, Grad Norm: 0.1008, LR: 0.000050
+Bin 8, Epoch 11/150, Train Loss: 0.6515, Validation Loss: 0.5973, Validation Accuracy: 0.8542, Grad Norm: 1.2041, LR: 0.000050
+Bin 8, Epoch 21/150, Train Loss: 0.5006, Validation Loss: 0.4535, Validation Accuracy: 0.8689, Grad Norm: 6.1558, LR: 0.000050
+Bin 8, Epoch 31/150, Train Loss: 0.4696, Validation Loss: 0.4378, Validation Accuracy: 0.8746, Grad Norm: 3.3252, LR: 0.000050
+Bin 8, Epoch 41/150, Train Loss: 0.4597, Validation Loss: 0.4277, Validation Accuracy: 0.8808, Grad Norm: 4.7219, LR: 0.000050
+Bin 8, Epoch 51/150, Train Loss: 0.4502, Validation Loss: 0.4203, Validation Accuracy: 0.8932, Grad Norm: 3.9015, LR: 0.000050
+Bin 8, Epoch 61/150, Train Loss: 0.4472, Validation Loss: 0.4318, Validation Accuracy: 0.8740, Grad Norm: 4.5272, LR: 0.000050
+Bin 8, Epoch 71/150, Train Loss: 0.4398, Validation Loss: 0.4140, Validation Accuracy: 0.8983, Grad Norm: 1.8807, LR: 0.000025
+Bin 8, Epoch 81/150, Train Loss: 0.4406, Validation Loss: 0.4130, Validation Accuracy: 0.8989, Grad Norm: 4.2526, LR: 0.000025
+Bin 8, Epoch 91/150, Train Loss: 0.4353, Validation Loss: 0.4053, Validation Accuracy: 0.9073, Grad Norm: 5.4787, LR: 0.000025
+Bin 8, Epoch 101/150, Train Loss: 0.4339, Validation Loss: 0.4159, Validation Accuracy: 0.8898, Grad Norm: 4.6592, LR: 0.000025
+Bin 8, Epoch 111/150, Train Loss: 0.4326, Validation Loss: 0.4042, Validation Accuracy: 0.9085, Grad Norm: 0.4940, LR: 0.000013
+Bin 8, Epoch 121/150, Train Loss: 0.4328, Validation Loss: 0.4039, Validation Accuracy: 0.9085, Grad Norm: 0.6765, LR: 0.000013
+Bin 8, Epoch 131/150, Train Loss: 0.4302, Validation Loss: 0.4061, Validation Accuracy: 0.9056, Grad Norm: 6.2216, LR: 0.000006
+Bin 8, Epoch 141/150, Train Loss: 0.4307, Validation Loss: 0.4067, Validation Accuracy: 0.9028, Grad Norm: 3.2731, LR: 0.000003
+Model for bin 8 saved to 3DCholesterolModels-st_exp4/model_bin_8.pth
+1925 is length of subset grid
+Training on bin 9
+Bin 9, Epoch 1/150, Train Loss: 0.6930, Validation Loss: 0.6955, Validation Accuracy: 0.2175, Grad Norm: 0.0464, LR: 0.000050
+Bin 9, Epoch 11/150, Train Loss: 0.6238, Validation Loss: 0.5666, Validation Accuracy: 0.8475, Grad Norm: 4.8875, LR: 0.000050
+Bin 9, Epoch 21/150, Train Loss: 0.4921, Validation Loss: 0.4539, Validation Accuracy: 0.8695, Grad Norm: 2.7026, LR: 0.000050
+Bin 9, Epoch 31/150, Train Loss: 0.4661, Validation Loss: 0.4451, Validation Accuracy: 0.8701, Grad Norm: 2.4654, LR: 0.000050
+Bin 9, Epoch 41/150, Train Loss: 0.4565, Validation Loss: 0.4463, Validation Accuracy: 0.8633, Grad Norm: 4.8280, LR: 0.000050
+Bin 9, Epoch 51/150, Train Loss: 0.4470, Validation Loss: 0.4216, Validation Accuracy: 0.8893, Grad Norm: 0.9006, LR: 0.000050
+Bin 9, Epoch 61/150, Train Loss: 0.4440, Validation Loss: 0.4261, Validation Accuracy: 0.8802, Grad Norm: 3.4088, LR: 0.000050
+Bin 9, Epoch 71/150, Train Loss: 0.4396, Validation Loss: 0.4114, Validation Accuracy: 0.8966, Grad Norm: 6.2850, LR: 0.000050
+Bin 9, Epoch 81/150, Train Loss: 0.4329, Validation Loss: 0.4062, Validation Accuracy: 0.9051, Grad Norm: 6.3122, LR: 0.000050
+Bin 9, Epoch 91/150, Train Loss: 0.4359, Validation Loss: 0.4161, Validation Accuracy: 0.8904, Grad Norm: 3.3381, LR: 0.000050
+Bin 9, Epoch 101/150, Train Loss: 0.4266, Validation Loss: 0.4106, Validation Accuracy: 0.8949, Grad Norm: 2.9154, LR: 0.000050
+Bin 9, Epoch 111/150, Train Loss: 0.4271, Validation Loss: 0.4192, Validation Accuracy: 0.8864, Grad Norm: 2.4017, LR: 0.000050
+Bin 9, Epoch 121/150, Train Loss: 0.4290, Validation Loss: 0.4270, Validation Accuracy: 0.8797, Grad Norm: 6.2012, LR: 0.000050
+Bin 9, Epoch 131/150, Train Loss: 0.4235, Validation Loss: 0.3992, Validation Accuracy: 0.9113, Grad Norm: 6.2390, LR: 0.000025
+Bin 9, Epoch 141/150, Train Loss: 0.4217, Validation Loss: 0.3994, Validation Accuracy: 0.9113, Grad Norm: 6.1833, LR: 0.000025
+Model for bin 9 saved to 3DCholesterolModels-st_exp4/model_bin_9.pth
+1925 is length of subset grid
+Training on bin 10
+Bin 10, Epoch 1/150, Train Loss: 0.6935, Validation Loss: 0.6753, Validation Accuracy: 0.7825, Grad Norm: 0.0506, LR: 0.000050
+Bin 10, Epoch 11/150, Train Loss: 0.6435, Validation Loss: 0.6221, Validation Accuracy: 0.8130, Grad Norm: 1.9657, LR: 0.000050
+Bin 10, Epoch 21/150, Train Loss: 0.4945, Validation Loss: 0.4610, Validation Accuracy: 0.8644, Grad Norm: 5.7676, LR: 0.000050
+Bin 10, Epoch 31/150, Train Loss: 0.4706, Validation Loss: 0.4602, Validation Accuracy: 0.8514, Grad Norm: 2.0769, LR: 0.000050
+Bin 10, Epoch 41/150, Train Loss: 0.4603, Validation Loss: 0.4304, Validation Accuracy: 0.8802, Grad Norm: 3.0923, LR: 0.000050
+Bin 10, Epoch 51/150, Train Loss: 0.4548, Validation Loss: 0.4361, Validation Accuracy: 0.8740, Grad Norm: 1.9982, LR: 0.000050
+Bin 10, Epoch 61/150, Train Loss: 0.4511, Validation Loss: 0.4483, Validation Accuracy: 0.8531, Grad Norm: 1.5591, LR: 0.000050
+Bin 10, Epoch 71/150, Train Loss: 0.4438, Validation Loss: 0.4189, Validation Accuracy: 0.8904, Grad Norm: 2.2389, LR: 0.000050
+Bin 10, Epoch 81/150, Train Loss: 0.4460, Validation Loss: 0.4217, Validation Accuracy: 0.8887, Grad Norm: 2.3374, LR: 0.000025
+Bin 10, Epoch 91/150, Train Loss: 0.4424, Validation Loss: 0.4357, Validation Accuracy: 0.8701, Grad Norm: 5.3785, LR: 0.000025
+Bin 10, Epoch 101/150, Train Loss: 0.4399, Validation Loss: 0.4148, Validation Accuracy: 0.8966, Grad Norm: 1.9585, LR: 0.000013
+Bin 10, Epoch 111/150, Train Loss: 0.4396, Validation Loss: 0.4188, Validation Accuracy: 0.8910, Grad Norm: 1.2193, LR: 0.000006
+Bin 10, Epoch 121/150, Train Loss: 0.4412, Validation Loss: 0.4184, Validation Accuracy: 0.8898, Grad Norm: 1.7245, LR: 0.000003
+Bin 10, Epoch 131/150, Train Loss: 0.4380, Validation Loss: 0.4170, Validation Accuracy: 0.8915, Grad Norm: 3.7185, LR: 0.000002
+Bin 10, Epoch 141/150, Train Loss: 0.4391, Validation Loss: 0.4189, Validation Accuracy: 0.8904, Grad Norm: 3.0824, LR: 0.000001
+Model for bin 10 saved to 3DCholesterolModels-st_exp4/model_bin_10.pth
+1925 is length of subset grid
+Training on bin 11
+Bin 11, Epoch 1/150, Train Loss: 0.6933, Validation Loss: 0.6810, Validation Accuracy: 0.7825, Grad Norm: 0.0136, LR: 0.000050
+Bin 11, Epoch 11/150, Train Loss: 0.6443, Validation Loss: 0.5993, Validation Accuracy: 0.8520, Grad Norm: 1.3134, LR: 0.000050
+Bin 11, Epoch 21/150, Train Loss: 0.4952, Validation Loss: 0.4822, Validation Accuracy: 0.8356, Grad Norm: 6.1555, LR: 0.000050
+Bin 11, Epoch 31/150, Train Loss: 0.4706, Validation Loss: 0.4364, Validation Accuracy: 0.8802, Grad Norm: 2.3044, LR: 0.000050
+Bin 11, Epoch 41/150, Train Loss: 0.4579, Validation Loss: 0.4344, Validation Accuracy: 0.8768, Grad Norm: 0.3532, LR: 0.000050
+Bin 11, Epoch 51/150, Train Loss: 0.4503, Validation Loss: 0.4178, Validation Accuracy: 0.8972, Grad Norm: 1.0879, LR: 0.000050
+Bin 11, Epoch 61/150, Train Loss: 0.4416, Validation Loss: 0.4155, Validation Accuracy: 0.9000, Grad Norm: 1.3889, LR: 0.000050
+Bin 11, Epoch 71/150, Train Loss: 0.4368, Validation Loss: 0.4122, Validation Accuracy: 0.9017, Grad Norm: 0.4199, LR: 0.000050
+Bin 11, Epoch 81/150, Train Loss: 0.4331, Validation Loss: 0.4156, Validation Accuracy: 0.8944, Grad Norm: 1.9515, LR: 0.000050
+Bin 11, Epoch 91/150, Train Loss: 0.4305, Validation Loss: 0.4038, Validation Accuracy: 0.9017, Grad Norm: 0.4696, LR: 0.000050
+Bin 11, Epoch 101/150, Train Loss: 0.4281, Validation Loss: 0.4104, Validation Accuracy: 0.9006, Grad Norm: 2.6942, LR: 0.000050
+Bin 11, Epoch 111/150, Train Loss: 0.4258, Validation Loss: 0.4138, Validation Accuracy: 0.8955, Grad Norm: 1.4502, LR: 0.000050
+Bin 11, Epoch 121/150, Train Loss: 0.4221, Validation Loss: 0.4004, Validation Accuracy: 0.9062, Grad Norm: 2.6302, LR: 0.000025
+Bin 11, Epoch 131/150, Train Loss: 0.4177, Validation Loss: 0.4040, Validation Accuracy: 0.9028, Grad Norm: 0.8148, LR: 0.000025
+Bin 11, Epoch 141/150, Train Loss: 0.4173, Validation Loss: 0.4013, Validation Accuracy: 0.9068, Grad Norm: 3.3191, LR: 0.000013
+Model for bin 11 saved to 3DCholesterolModels-st_exp4/model_bin_11.pth
+1925 is length of subset grid
+Training on bin 12
+Bin 12, Epoch 1/150, Train Loss: 0.6931, Validation Loss: 0.6960, Validation Accuracy: 0.2175, Grad Norm: 0.0141, LR: 0.000050
+Bin 12, Epoch 11/150, Train Loss: 0.6149, Validation Loss: 0.5613, Validation Accuracy: 0.8441, Grad Norm: 2.3001, LR: 0.000050
+Bin 12, Epoch 21/150, Train Loss: 0.4830, Validation Loss: 0.4421, Validation Accuracy: 0.8768, Grad Norm: 6.2726, LR: 0.000050
+Bin 12, Epoch 31/150, Train Loss: 0.4632, Validation Loss: 0.4584, Validation Accuracy: 0.8469, Grad Norm: 4.8083, LR: 0.000050
+Bin 12, Epoch 41/150, Train Loss: 0.4585, Validation Loss: 0.4370, Validation Accuracy: 0.8689, Grad Norm: 2.1076, LR: 0.000050
+Bin 12, Epoch 51/150, Train Loss: 0.4485, Validation Loss: 0.4359, Validation Accuracy: 0.8672, Grad Norm: 4.4354, LR: 0.000050
+Bin 12, Epoch 61/150, Train Loss: 0.4455, Validation Loss: 0.4369, Validation Accuracy: 0.8655, Grad Norm: 2.5703, LR: 0.000050
+Bin 12, Epoch 71/150, Train Loss: 0.4413, Validation Loss: 0.4266, Validation Accuracy: 0.8785, Grad Norm: 1.9395, LR: 0.000050
+Bin 12, Epoch 81/150, Train Loss: 0.4395, Validation Loss: 0.4129, Validation Accuracy: 0.8960, Grad Norm: 6.3327, LR: 0.000025
+Bin 12, Epoch 91/150, Train Loss: 0.4352, Validation Loss: 0.4231, Validation Accuracy: 0.8847, Grad Norm: 0.6282, LR: 0.000025
+Bin 12, Epoch 101/150, Train Loss: 0.4360, Validation Loss: 0.4234, Validation Accuracy: 0.8842, Grad Norm: 1.2169, LR: 0.000013
+Bin 12, Epoch 111/150, Train Loss: 0.4328, Validation Loss: 0.4192, Validation Accuracy: 0.8887, Grad Norm: 5.8973, LR: 0.000006
+Bin 12, Epoch 121/150, Train Loss: 0.4348, Validation Loss: 0.4172, Validation Accuracy: 0.8910, Grad Norm: 4.7525, LR: 0.000003
+Bin 12, Epoch 131/150, Train Loss: 0.4345, Validation Loss: 0.4167, Validation Accuracy: 0.8910, Grad Norm: 2.7378, LR: 0.000002
+Bin 12, Epoch 141/150, Train Loss: 0.4316, Validation Loss: 0.4176, Validation Accuracy: 0.8904, Grad Norm: 2.4457, LR: 0.000001
+Model for bin 12 saved to 3DCholesterolModels-st_exp4/model_bin_12.pth
+1925 is length of subset grid
+Training on bin 13
+Bin 13, Epoch 1/150, Train Loss: 0.6931, Validation Loss: 0.6827, Validation Accuracy: 0.7825, Grad Norm: 0.0322, LR: 0.000050
+Bin 13, Epoch 11/150, Train Loss: 0.6012, Validation Loss: 0.5471, Validation Accuracy: 0.8412, Grad Norm: 1.7106, LR: 0.000050

@@ -1,0 +1,6 @@
+canonical_id,cnn_exp1,cnn_exp2,cnn_exp3,cnn_exp4,cnn_exp5,gat_exp1,gat_exp2,gat_exp3,gat_exp4,gat_exp5,gcn_exp1,gcn_exp2,gcn_exp3,gcn_exp4,gcn_exp5,gnn_exp1,gnn_exp2,gnn_exp3,gnn_exp4,gnn_exp5
+box184,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+box458,False,True,True,False,False,False,False,True,True,False,True,True,True,False,True,False,False,False,False,False
+box514,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+box549,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+box690,False,False,True,True,False,True,True,True,True,True,True,False,True,True,True,True,True,False,True,False
