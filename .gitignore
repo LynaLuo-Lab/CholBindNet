@@ -1,2 +1,3 @@
 *.npy
 *.pdb
+.ipynb_checkpoints/
