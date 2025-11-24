@@ -1,3 +1,0 @@
-canonical_id,CNN,GAT,GCN,GNN,pattern_label
-box5258,True,False,True,True,CNN & GCN & GNN (missing: GAT)
-box8149,True,False,True,True,CNN & GCN & GNN (missing: GAT)
