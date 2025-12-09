@@ -10,16 +10,67 @@ from torch_geometric.nn import GCNConv, global_mean_pool
 from EvaluationMethods import apply_labeling_from_spies, get_spy_info, show_evaluation_results
 from collections import Counter
 import os
+import argparse
 
-test_files_path = "/home/alexhernandez/transmembranebindingAI/Data/UnsplitData/ivanfiles" # paste path of directory of files you want to evaluate
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Evaluate GAT, GCN, and GNN cholesterol-binding models."
+    )
+
+    # Default paths exactly as originally defined
+    parser.add_argument(
+        "--test_files_path",
+        type=str,
+        default="/home/alexhernandez/transmembranebindingAI/Data/UnsplitData/ivanfiles",
+        help="Directory containing PDB files to evaluate."
+    )
+
+    parser.add_argument(
+        "--output_dir",
+        type=str,
+        default="CholBindOutput",
+        help="Directory where evaluation outputs will be saved."
+    )
+
+    parser.add_argument(
+        "--gat_models_path",
+        type=str,
+        default="/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GAT",
+        help="Directory containing trained GAT model folders."
+    )
+
+    parser.add_argument(
+        "--gnn_models_path",
+        type=str,
+        default="/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GNN",
+        help="Directory containing trained GNN model folders."
+    )
+
+    parser.add_argument(
+        "--gcn_models_path",
+        type=str,
+        default="/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GCN",
+        help="Directory containing trained GCN model folders."
+    )
+
+    return parser.parse_args()
+
+args = parse_args()
+
+test_files_path = args.test_files_path
+output_dir = args.output_dir
+gat_models_path = args.gat_models_path
+gnn_models_path = args.gnn_models_path
+gcn_models_path = args.gcn_models_path
+
 test_files = glob.glob(f"{test_files_path}/*.pdb")
 
-output_dir = "CholBindOutput" # name the output dir of results
-
-# put corresponding model paths here
-gat_models_path = "/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GAT"
-gnn_models_path = "/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GNN"
-gcn_models_path = "/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GCN"
+print("Loaded arguments:")
+print("Test files path :", test_files_path)
+print("Output directory:", output_dir)
+print("GAT models path :", gat_models_path)
+print("GNN models path :", gnn_models_path)
+print("GCN models path :", gcn_models_path)
 
 print("Preprocessing files")
 create_graphs(test_files, output_dir)
