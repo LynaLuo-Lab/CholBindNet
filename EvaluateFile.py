@@ -21,7 +21,7 @@ def parse_args():
     parser.add_argument(
         "--test_files_path",
         type=str,
-        default="/home/alexhernandez/transmembranebindingAI/Data/UnsplitData/ivanfiles",
+        default="TestEvaluationFiles",
         help="Directory containing PDB files to evaluate."
     )
 
@@ -35,21 +35,21 @@ def parse_args():
     parser.add_argument(
         "--gat_models_path",
         type=str,
-        default="/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GAT",
+        default="GAT_Model",
         help="Directory containing trained GAT model folders."
     )
 
     parser.add_argument(
         "--gnn_models_path",
         type=str,
-        default="/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GNN",
+        default="GNN_Model",
         help="Directory containing trained GNN model folders."
     )
 
     parser.add_argument(
         "--gcn_models_path",
         type=str,
-        default="/home/alexhernandez/transmembranebindingAI/Models/Cholesterol/GCN",
+        default="GCN_Model",
         help="Directory containing trained GCN model folders."
     )
 
