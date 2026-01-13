@@ -81,3 +81,46 @@ docker run --rm -it cholbindnet:local
 #### Notes
 
 - The image is CPU-based (`python:3.10` base). No CUDA is included.
+
+## Computational Resources and Cost
+
+### Hardware Environment
+
+All model training and evaluation experiments were conducted on a high-performance computing (HPC) cluster node with the following specifications:
+
+**CPU**
+- Processor: AMD EPYC 7763 (64 cores, 128 threads)
+- Architecture: x86_64
+- Base/Boost Frequency: 1.5–3.5 GHz
+- Total CPU cores available per node: 128
+- CPU cores used per experiment: up to **32**
+- Cache hierarchy:
+  - L1 Cache: 2 MB
+  - L2 Cache: 32 MB
+  - L3 Cache: 256 MB
+
+**GPU**
+- GPU Model: NVIDIA RTX A4500
+- GPU Memory: 20 GB GDDR6
+- CUDA Version: 12.4
+- NVIDIA Driver Version: 550.90.07
+- GPUs available per node: 4
+- GPUs used per experiment: **1**
+
+Training jobs were executed using a single GPU in combination with multi-threaded CPU preprocessing and data loading.
+
+---
+
+### Computational Cost and Runtime
+
+Each training experiment consists of an ensemble of **50 submodels**, trained independently and aggregated to produce the final predictive model.
+
+- GPU usage: 1 × NVIDIA RTX A4500
+- CPU usage: up to 32 cores
+- Typical wall-clock training time:
+  - **~24–48 hours per experiment** (50 submodels)
+
+Parallelization was applied at the level of CPU-based preprocessing and data loading, while GPU-accelerated model training was performed sequentially within a single job submission. No multi-GPU training was employed.
+
+---
+
