@@ -1,3 +1,12 @@
+# CholBindNet
+
+🌐 **Run CholBindNet in your browser (no Docker required):**  
+https://compbiotools.westernu.edu/cholnet
+
+If you prefer to run locally via Docker or want full control over the pipeline, see the instructions below.
+
+---
+
 ### CholBindNet Docker Usage
 
 This repository provides a Docker image that runs `EvaluateFile.py` to evaluate cholesterol-binding models (GAT, GCN, and GNN) against input PDB files.
