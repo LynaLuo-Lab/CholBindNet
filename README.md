@@ -1,7 +1,7 @@
 # CholBindNet
 
 🌐 **Run CholBindNet in your browser (no Docker required):**  
-https://compbiotools.westernu.edu/cholnet
+https://compbiotools.westernu.edu/cholbindnet
 
 If you prefer to run locally via Docker or want full control over the pipeline, see the instructions below.
 
