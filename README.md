@@ -120,6 +120,23 @@ Training jobs were executed using a single GPU in combination with multi-threade
 
 ---
 
+## Molecular Dynamics (MD) Simulations
+
+MD simulations were performed on the Anton3 supercomputer.
+
+Two independent replicas were generated:
+
+- **Replica 2:** 16 μs simulation  
+- **Replica 3:** 12 μs simulation  
+
+The final frame from each replica is included in the repository as:
+protein_only.pdb
+
+
+For AutoDock Vina docking samples, the final frame from **Replica 2** was used.
+
+---
+
 ### Computational Cost and Runtime
 
 Each training experiment consists of an ensemble of **50 submodels**, trained independently and aggregated to produce the final predictive model.
