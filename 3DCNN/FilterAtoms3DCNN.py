@@ -286,13 +286,13 @@ def create_grids(protein_file, unlabeled_files, dataset_name):
             # Save to pdb
             filtered_pdb = PandasPdb()
             filtered_pdb.df['ATOM'] = filtered_atoms
-            base_name = os.path.basename(unlabeled_file)
+            base_name = os.path.splitext(os.path.basename(unlabeled_file))[0]
 
             # pat = re.compile(r"box(?P<box>\d+).*?mode[_-]?(?P<mode>\d+)\.pdb$", re.IGNORECASE)
             # m = pat.search(unlabeled_file)
 
             # if m:
-            filtered_pdb_path = f"filtered-{dataset_name}-piezo-pdbs/unlabeled/{base_name[:7]}-filtered.pdb"
+            filtered_pdb_path = f"filtered-{dataset_name}-piezo-pdbs/unlabeled/{base_name}-filtered.pdb"
             os.makedirs(os.path.dirname(filtered_pdb_path), exist_ok=True)
             filtered_pdb.to_pdb(path=filtered_pdb_path, records=None, gz=False, append_newline=True)
 
