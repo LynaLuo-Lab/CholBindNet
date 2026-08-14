@@ -21,6 +21,8 @@ outputs/
 results_tmp/
 logs/
 
+notebooks/archive/
+
 # Large/generated scientific files
 *.npy
 *.npz
