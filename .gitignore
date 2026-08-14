@@ -1,3 +1,40 @@
-*.npy
-*.pdb
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated CholBindNet outputs
+CholBindOutput/
+*/CholBindOutput/
+outputs/
+results_tmp/
+logs/
+
+# Large/generated scientific files
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+*.hdf5
+
+# PDB files ignored by default
+*.pdb
+
+# But allow curated example PDBs
+!examples/
+!examples/test_pdbs/
+!examples/test_pdbs/*.pdb
